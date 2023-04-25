@@ -4,7 +4,7 @@
         "author": "Nhocconsr",
         "version": 9,
         "source": "https://sangtacviet.info",
-        "regexp": "(www.)?sangtacviet.(info|com|xyz)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
+        "regexp": "(www.)?sangtacviet.(info|com|vip)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
         "description": "Updated ^^!. Fix linh tinh. Site lol",
         "locale": "vi-VN",
         "language": "javascript",
